@@ -1603,14 +1603,14 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/Mo_Tech_YT">Mo Tech YT</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/Mo_Tech_YT/Pro-Filter-Bot-V2.0">Source</a>"""
+    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/OTTBLASTERS">Mo Tech YT</a>\n"""
+    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/mgmkanish9585/Pro-Filter-Bot-V2.0">Source</a>"""
 
     buttons = [
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/Mo_Tech_Group"
+                    "My Dev ⚡", url="https://t.me/OTTBLASTERS"
                 ),
                 
             InlineKeyboardButton
@@ -1661,7 +1661,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "help":
         buttons = [[
-            InlineKeyboardButton('Support', url='t.me/Mo_Tech_Group'),
+            InlineKeyboardButton('Support', url='t.me/OTTBLASTERS'),
             InlineKeyboardButton('Bot Updates', url=f't.me/{MT_UPDATES}')
         ],[
             InlineKeyboardButton('🖥️ How To Own This Bot 🖥️', url=f'{MT_LINK}')
