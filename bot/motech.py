@@ -11,11 +11,11 @@ an express grant of patent rights.
 when a modified version is used to provide a service
 over a network, the complete source code of the modified
 version must be made available.
-»https://github.com/AlbertEinsteinTG»https://github.com/MoTechYT»https://github.com/PR0FESS0R-99/Pro-Auto-Filter-Bot-V2
+»https://github.com/AlbertEinsteinTG»https://github.com/MoTechYT»https://github.com/mgmkanish9585/Pro-Auto-Filter-Bot-V2
 your main Channel Added from Heroku
 update"""
 """your Main Channel"""
-MT_UPDATES = "t.me/Mo_Tech_YT" # eg
+MT_UPDATES = "t.me/OTTBLASTERS" # eg
 
-TEAM = """Team <b><a href="https://t.me/Mo_Tech_YT">Mo Tech YT</a></b>
+TEAM = """Team <b><a href="https://t.me/OTTBLASTERS">OTTBLASTERS</a></b>
 """
